@@ -16,7 +16,4 @@ class FriendModel
   
 };
 
-
-
-
 #endif

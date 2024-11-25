@@ -275,7 +275,6 @@ void ChatService::oneChat(const TcpConnectionPtr& conn, json& js, Timestamp time
 
     //不在线，存储离线消息
     offlineMsgModel_.insert(toid, js.dump());
-
 }
 
 //添加好友

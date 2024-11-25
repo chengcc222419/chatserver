@@ -10,7 +10,7 @@
 					[
 						1
 					],
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -25,7 +25,7 @@
 						2,
 						3
 					],
-					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"jsonFile" : "directory-src-b6cf2213fc5053b67c22.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -36,7 +36,7 @@
 				},
 				{
 					"build" : "src/server",
-					"jsonFile" : "directory-src.server-Debug-ed01e06ea8a73e000890.json",
+					"jsonFile" : "directory-src.server-ed01e06ea8a73e000890.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -51,7 +51,7 @@
 				},
 				{
 					"build" : "src/client",
-					"jsonFile" : "directory-src.client-Debug-1c4a3b19c39f3daa3331.json",
+					"jsonFile" : "directory-src.client-1c4a3b19c39f3daa3331.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -65,7 +65,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "",
 			"projects" : 
 			[
 				{
@@ -89,14 +89,14 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "ChatClient::@8ca63c80a879d0067daa",
-					"jsonFile" : "target-ChatClient-Debug-ca6560fda21cb5a343b6.json",
+					"jsonFile" : "target-ChatClient-6ccb0217e91f531b3198.json",
 					"name" : "ChatClient",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "ChatServer::@2804e40980a64c7d7ad1",
-					"jsonFile" : "target-ChatServer-Debug-b4b7bf02b91a199caf66.json",
+					"jsonFile" : "target-ChatServer-cddbfab5e3ed8b128144.json",
 					"name" : "ChatServer",
 					"projectIndex" : 0
 				}
@@ -106,8 +106,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/chengcc/chat/build",
-		"source" : "/home/chengcc/chat"
+		"build" : "/home/chengcc/chat/chatserver/build",
+		"source" : "/home/chengcc/chat/chatserver"
 	},
 	"version" : 
 	{

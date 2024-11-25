@@ -5,7 +5,6 @@
 #include <string>
 using namespace std;
 
-
 // 数据库操作类
 class MySQL
 {

@@ -19,7 +19,7 @@ ChatServer::ChatServer(EventLoop* loop,
     //注册信息回调
     _server.setMessageCallback(std::bind(&ChatServer::onMessage, this, _1, _2, _3));
 
-    //设置线程数量
+    //设置线程数量 1 I/O 3 worker
     _server.setThreadNum(4);
 }
 

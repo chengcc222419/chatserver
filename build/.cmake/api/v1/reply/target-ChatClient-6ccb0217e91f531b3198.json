@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/chengcc/chat/bin/ChatClient"
+			"path" : "/home/chengcc/chat/chatserver/bin/ChatClient"
 		}
 	],
 	"backtrace" : 1,
@@ -83,34 +83,34 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -g"
+					"fragment" : "-g"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/chengcc/chat/include"
+					"path" : "/home/chengcc/chat/chatserver/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/chengcc/chat/include/server"
+					"path" : "/home/chengcc/chat/chatserver/include/server"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/chengcc/chat/include/server/db"
+					"path" : "/home/chengcc/chat/chatserver/include/server/db"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/chengcc/chat/include/server/model"
+					"path" : "/home/chengcc/chat/chatserver/include/server/model"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/chengcc/chat/include/server/redis"
+					"path" : "/home/chengcc/chat/chatserver/include/server/redis"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/home/chengcc/chat/thirdparty"
+					"path" : "/home/chengcc/chat/chatserver/thirdparty"
 				}
 			],
 			"language" : "CXX",
@@ -126,7 +126,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g -g",
+				"fragment" : "-g",
 				"role" : "flags"
 			},
 			{
