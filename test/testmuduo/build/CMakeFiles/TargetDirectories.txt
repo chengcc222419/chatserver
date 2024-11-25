@@ -1,0 +1,3 @@
+/home/chengcc/chat/testmuduo/build/CMakeFiles/server.dir
+/home/chengcc/chat/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/chengcc/chat/testmuduo/build/CMakeFiles/rebuild_cache.dir
